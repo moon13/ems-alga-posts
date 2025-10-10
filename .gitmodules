@@ -1,12 +1,6 @@
 [submodule "microservices/post-service"]
 	path = microservices/post-service
 	url = git@github.com:moon13/post-service.git
-[submodule "microservice/text-processor-service"]
-	path = microservice/text-processor-service
-	url = git@github.com:moon13/text-processor-service.git
-[submodule "microservice/post-service"]
-	path = microservice/post-service
-	url = git@github.com:moon13/post-service.git
 [submodule "microservices/text-processor-service"]
 	path = microservices/text-processor-service
 	url = git@github.com:moon13/text-processor-service.git
